@@ -12,7 +12,7 @@ public class PlanoOperadora {
                     System.out.println("Whats e Instagram grátis");
             }
             case "B": {
-                    System.out.println("100 minutos de ligação");
+                    System.out.println("100 minutos de ligação!");
             }
         }
     }
