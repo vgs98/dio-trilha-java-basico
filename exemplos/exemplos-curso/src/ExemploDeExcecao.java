@@ -10,7 +10,7 @@ public class ExemploDeExcecao {
         valor = NumberFormat.getInstance().parse("a1.75");
         System.out.println(valor);
     } catch (ParseException e) {
-        // é pra dar erro msm
+        // TODO Auto-generated catch block
         e.printStackTrace();
     }
 
