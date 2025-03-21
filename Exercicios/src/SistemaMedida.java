@@ -1,6 +1,6 @@
 public class SistemaMedida {
     public static void main(String[] args) {
-        String sigla = "V";
+        String sigla = "P";
 
         switch (sigla) {
             case "P" -> System.out.println("PEQUENO");
